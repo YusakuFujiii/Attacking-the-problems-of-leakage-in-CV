@@ -1,4 +1,4 @@
-# Attacking-the-problems-of-leakage-in-CV
+# Attacking-the-problem-of-leakage-in-CV
 
 ### Problem Setting  
 How can we reduce leakage in CV?
