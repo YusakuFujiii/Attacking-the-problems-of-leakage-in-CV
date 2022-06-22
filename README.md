@@ -3,5 +3,5 @@
 ### Problem Setting  
 How can we reduce leakage in CV?
 ### Existing methods
-1. Purged K Fold CV
-  fklskd;fkl;s
+1. Purged K Fold CV  
+jfksdjfks
