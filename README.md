@@ -4,4 +4,5 @@
 How can we reduce leakage in CV?
 ### Existing methods
 1. Purged K Fold CV  
-jfksdjfks
+   - What is Purged K Fold CV?
+   - 
