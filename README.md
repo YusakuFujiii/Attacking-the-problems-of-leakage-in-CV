@@ -1,7 +1,7 @@
-# Minimizing the risk of false discovery in CV
+# Attacking the problem of leakage in CV
 
 ### Problem Setting  
-How can we minimize the risk of false discovery in CV?
+How can we reduce leakage in CV?
 ### Existing methods
 1. PEK Fold CV (Purged and Embargoed K Fold CV) 
    - What is PEK Fold CV?
